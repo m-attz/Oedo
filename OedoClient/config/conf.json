@@ -1,0 +1,23 @@
+{
+    "username": "None",
+    "password": "None",
+    "pkey": "None",
+    "key_filename": "~/.ssh/known_hosts",
+    "timeout": 60,
+    "allow_agent": "True",
+    "look_for_keys": "True",
+    "compress": "False",
+    "sock": "None",
+    "gss_auth": "False",
+    "gss_kex": "False",
+    "gss_deleg_creds": "True",
+    "gss_host": "None",
+    "banner_timeout": 60,
+    "auth_timeout": 60,
+    "channel_timeout": "None",
+    "gss_trust_dns": "True",
+    "passphrase": "None",
+    "disabled_algorithms": "None",
+    "transport_factory": "None",
+    "auth_strategy": "None"
+}
